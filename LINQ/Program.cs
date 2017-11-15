@@ -14,7 +14,7 @@ namespace LINQ
 
             //LINQ to query short words
 
-            var shortWords = from word in words
+            var shortWords = from word in words              //select statement modeled exactly after SQL
                              where word.Length <= 5
                              select word;
 

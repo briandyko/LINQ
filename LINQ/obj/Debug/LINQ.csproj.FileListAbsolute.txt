@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\LINQ\LINQ\bin\Debug\LINQ.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LINQ\LINQ\bin\Debug\LINQ.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LINQ\LINQ\bin\Debug\LINQ.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LINQ\LINQ\obj\Debug\LINQ.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LINQ\LINQ\obj\Debug\LINQ.pdb
